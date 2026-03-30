@@ -1,0 +1,18 @@
++ user
+- id
+- email
+- pwd
+
++ category
+- id
+- user_id
+- type (INCOME/EXPENSE)
+- name
+
++ transaction
+- id
+- user_id
+- category_id
+- cost
+- description
+- created_at

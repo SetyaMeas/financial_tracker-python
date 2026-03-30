@@ -1,0 +1,4 @@
+id,user_id,type,name
+1,1,EXPENSE,food
+3,1,INCOME,testing
+5,1,INCOME,salary

@@ -1,0 +1,1 @@
+from aggregate.transaction_detail import TransactionDetail

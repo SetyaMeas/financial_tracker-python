@@ -1,0 +1,18 @@
+G3 => Topic: Financial Tracker (Multiple Users Support)
+
++ Module:
+- Authentication/Authorization
+- Income Management
+- Expense Management
+- Categorize Management (food, transport, ...)
+- Reports (weekly, monthly, yearly) 
+
++ Group members:
+1. Meas Setya
+2. HEM Manuth
+3. KEAK Sakoeurk
+4. SIN Risann
+5. SOK Pov
+6. KET Manun
+7. SOY Pich
+8. Sopal Vathana
